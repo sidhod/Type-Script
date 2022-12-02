@@ -24,14 +24,3 @@ console.log(name12)
 //never
 // let x1: never;
 // x1=45
-
-
-//array
-const names: string[] = [];
-names.push("Sid");
-//tuple 
-let tuple: [number, boolean, string];
-tuple = [5, false, 'sidodhan'];
-tuple.push(8, true, "sidhodhan")
-console.warn(tuple);
-//
