@@ -1,0 +1,10 @@
+var variable = 10;
+variable = "Sai";
+console.log(variable);
+var arr = [];
+arr.push("Sai");
+arr.push(2);
+arr.push(true);
+console.log(arr);
+var obj = { Name: "Sai", Rollno: 25 };
+console.log(obj);
